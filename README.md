@@ -1,2 +1,2 @@
-1) fibonacciverification.py
-2) stringverification.py
+1)  fibonacciverification.py
+2)  stringverification.py
