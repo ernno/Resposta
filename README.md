@@ -1,2 +1,2 @@
-# Resposta
-Resposta as questões 1 e 2.
+1) fibonacciverification.py
+2) stringverification.py
